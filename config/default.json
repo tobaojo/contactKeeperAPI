@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://TobaOjo:Starwars1@clustertoba.cro5s.mongodb.net/ContactKeeper?retryWrites=true&w=majority",
+    "jwtSecret": "secret"
+}
